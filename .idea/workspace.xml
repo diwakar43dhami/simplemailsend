@@ -26,16 +26,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SendEmail.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SendEmail.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SendEmail.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23734729" vertical-offset="0" max-vertical-offset="2278">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2278">
               <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1494#1672#0" expanded="true" />
                 <element signature="e#1671#1672#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="java.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.2605364" vertical-offset="0" max-vertical-offset="522">
+              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -47,6 +57,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/abc.java" />
         <option value="$PROJECT_DIR$/src/SendEmail.java" />
+        <option value="$PROJECT_DIR$/src/java.html" />
       </list>
     </option>
   </component>
@@ -141,6 +152,7 @@
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
     <property name="LayoutCode.rearrangeEntriesJava" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RunManager" selected="Application.SendEmail">
     <configuration default="false" name="SendEmail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -438,12 +450,12 @@
       <workItem from="1471045946691" duration="4455000" />
       <workItem from="1471149385343" duration="2284000" />
       <workItem from="1471279107093" duration="3875000" />
-      <workItem from="1472667536094" duration="675000" />
+      <workItem from="1472667536094" duration="1053000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41773000" />
+    <option name="totallyTimeSpent" value="42151000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="2" width="1378" height="733" extended-state="1" />
@@ -571,13 +583,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SendEmail.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23734729" vertical-offset="0" max-vertical-offset="2278">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2278">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1494#1672#0" expanded="true" />
             <element signature="e#1671#1672#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2605364" vertical-offset="0" max-vertical-offset="522">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
